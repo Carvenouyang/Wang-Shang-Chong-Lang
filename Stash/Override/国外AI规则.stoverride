@@ -1,18 +1,50 @@
 name: 国外AI规则
-desc: 国外AI服务专用韩国8x节点
+desc: 国外AI服务规则合集
 category: 自建规则
 rules:
+  # Anthropic / Claude
   - DOMAIN-SUFFIX,anthropic.com,国外AI
   - DOMAIN-SUFFIX,claude.ai,国外AI
+  - DOMAIN-SUFFIX,claude.com,国外AI
+  - DOMAIN-SUFFIX,claudeusercontent.com,国外AI
+
+  # Google AI / Gemini
   - DOMAIN-SUFFIX,gemini.google.com,国外AI
   - DOMAIN-SUFFIX,ai.google.dev,国外AI
+  - DOMAIN-SUFFIX,aistudio.google.com,国外AI
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com,国外AI
   - DOMAIN-SUFFIX,googleapis.com,国外AI
+  - DOMAIN-SUFFIX,notebooklm.google.com,国外AI
+  - DOMAIN-SUFFIX,flow.google,国外AI
+  - DOMAIN-SUFFIX,jules.google,国外AI
+  - DOMAIN-SUFFIX,labs.google,国外AI
+  - DOMAIN-SUFFIX,stitch.withgoogle.com,国外AI
+
+  # xAI / Grok
   - DOMAIN-SUFFIX,x.ai,国外AI
   - DOMAIN-SUFFIX,grok.com,国外AI
+
+  # Perplexity
   - DOMAIN-SUFFIX,perplexity.ai,国外AI
+  - DOMAIN-SUFFIX,pplx.ai,国外AI
+
+  # Microsoft Copilot
   - DOMAIN-SUFFIX,copilot.microsoft.com,国外AI
   - DOMAIN-SUFFIX,cloud.microsoft,国外AI
   - DOMAIN-SUFFIX,substrate.office.com,国外AI
   - DOMAIN-SUFFIX,login.microsoftonline.com,国外AI
+
+  # Meta Muse
   - DOMAIN-SUFFIX,muse.ai,国外AI
+
+  # Poe
+  - DOMAIN-SUFFIX,poe.com,国外AI
+
+  # Mistral
+  - DOMAIN-SUFFIX,mistral.ai,国外AI
+
+  # DeepSeek
+  - DOMAIN-SUFFIX,deepseek.com,国外AI
+
+  # Qwen
+  - DOMAIN-SUFFIX,qwen.ai,国外AI
