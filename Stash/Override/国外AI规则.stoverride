@@ -2,17 +2,16 @@ name: 国外AI规则
 desc: 国外AI服务专用韩国8x节点
 category: 自建规则
 rules:
-
-* DOMAIN-SUFFIX,anthropic.com,国外AI
-* DOMAIN-SUFFIX,claude.ai,国外AI
-* DOMAIN-SUFFIX,gemini.google.com,国外AI
-* DOMAIN-SUFFIX,ai.google.dev,国外AI
-* DOMAIN-SUFFIX,generativelanguage.googleapis.com,国外AI
-* DOMAIN-SUFFIX,googleapis.com,国外AI
-* DOMAIN-SUFFIX,x.ai,国外AI
-* DOMAIN-SUFFIX,grok.com,国外AI
-* DOMAIN-SUFFIX,perplexity.ai,国外AI
-* DOMAIN-SUFFIX,copilot.microsoft.com,国外AI
-* DOMAIN-SUFFIX,cloud.microsoft,国外AI
-* DOMAIN-SUFFIX,substrate.office.com,国外AI
-* DOMAIN-SUFFIX,login.microsoftonline.com,国外AI
+  - DOMAIN-SUFFIX,anthropic.com,国外AI
+  - DOMAIN-SUFFIX,claude.ai,国外AI
+  - DOMAIN-SUFFIX,gemini.google.com,国外AI
+  - DOMAIN-SUFFIX,ai.google.dev,国外AI
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com,国外AI
+  - DOMAIN-SUFFIX,googleapis.com,国外AI
+  - DOMAIN-SUFFIX,x.ai,国外AI
+  - DOMAIN-SUFFIX,grok.com,国外AI
+  - DOMAIN-SUFFIX,perplexity.ai,国外AI
+  - DOMAIN-SUFFIX,copilot.microsoft.com,国外AI
+  - DOMAIN-SUFFIX,cloud.microsoft,国外AI
+  - DOMAIN-SUFFIX,substrate.office.com,国外AI
+  - DOMAIN-SUFFIX,login.microsoftonline.com,国外AI
