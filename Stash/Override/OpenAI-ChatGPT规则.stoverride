@@ -1,5 +1,5 @@
 name: OpenAI / ChatGPT规则
-desc: OpenAI及ChatGPT服务专用韩国8x节点
+desc: OpenAI及ChatGPT服务规则合集
 category: 自建规则
 rules:
   - DOMAIN-SUFFIX,openai.com,国外AI
