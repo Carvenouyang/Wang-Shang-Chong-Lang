@@ -34,9 +34,6 @@ rules:
   - DOMAIN-SUFFIX,substrate.office.com,国外AI
   - DOMAIN-SUFFIX,login.microsoftonline.com,国外AI
 
-  # Meta Muse
-  - DOMAIN-SUFFIX,muse.ai,国外AI
-
   # Poe
   - DOMAIN-SUFFIX,poe.com,国外AI
 
