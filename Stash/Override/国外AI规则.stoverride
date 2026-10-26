@@ -15,3 +15,4 @@ rules:
   - DOMAIN-SUFFIX,cloud.microsoft,国外AI
   - DOMAIN-SUFFIX,substrate.office.com,国外AI
   - DOMAIN-SUFFIX,login.microsoftonline.com,国外AI
+  - DOMAIN-SUFFIX,muse.ai,国外AI
