@@ -1,0 +1,25 @@
+name: OpenAI / ChatGPT规则
+desc: OpenAI及ChatGPT服务专用韩国8x节点
+category: 自建规则
+rules:
+  - DOMAIN-SUFFIX,openai.com,国外AI
+  - DOMAIN-SUFFIX,chatgpt.com,国外AI
+  - DOMAIN-SUFFIX,ct.sendgrid.net,国外AI
+  - DOMAIN-SUFFIX,intercom.io,国外AI
+  - DOMAIN-SUFFIX,intercomcdn.com,国外AI
+  - DOMAIN-SUFFIX,oaistatic.com,国外AI
+  - DOMAIN-SUFFIX,oaiusercontent.com,国外AI
+  - DOMAIN-SUFFIX,oaistatsig.com,国外AI
+  - DOMAIN,cdn.openaimerge.com,国外AI
+  - DOMAIN,cdn.workos.com,国外AI
+  - DOMAIN,challenges.cloudflare.com,国外AI
+  - DOMAIN,forwarder.workos.com,国外AI
+  - DOMAIN,frontend-apps-multi-region.workos.com,国外AI
+  - DOMAIN,humb.apple.com,国外AI
+  - DOMAIN,images.workoscdn.com,国外AI
+  - DOMAIN,js.stripe.com,国外AI
+  - DOMAIN,o207216.ingest.sentry.io,国外AI
+  - DOMAIN,o33249.ingest.sentry.io,国外AI
+  - DOMAIN,rum.browser-intake-datadoghq.com,国外AI
+  - DOMAIN,setup.workos.com,国外AI
+  - DOMAIN,workos.imgix.net,国外AI
