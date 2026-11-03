@@ -45,3 +45,10 @@ rules:
 
   # Qwen
   - DOMAIN-SUFFIX,qwen.ai,国外AI
+
+  # Meta AI
+  - DOMAIN-SUFFIX,meta.ai,国外AI
+  - DOMAIN-SUFFIX,graph.meta.com,国外AI
+  - DOMAIN-SUFFIX,graph.facebook.com,国外AI
+  - DOMAIN-SUFFIX,rupload.facebook.com,国外AI
+  - DOMAIN-SUFFIX,gateway.facebook.com,国外AI
